@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 -     I'm currently working with Backend.<br>
-- 🌱 I’m currently learning Technology
-- 📫 How to reach me: chndna_ - Instagram  chandana_mn99 - Twitter
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I sing and listen to songs.
+- 🌱 I’m currently learning Technology<br>
+- 📫 How to reach me: chndna_ - Instagram  chandana_mn99 - Twitter<br>
+- 😄 Pronouns: She/her <br>
+- ⚡ Fun fact: I sing and listen to songs.<br>
 -->
 
 
