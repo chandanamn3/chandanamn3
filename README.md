@@ -1,12 +1,5 @@
-### Hi there 👋
-
--     I'm currently working with Backend.
-- 🌱 I’m currently learning Technology
-- 📫 How to reach me: chndna_ - Instagram  chandana_mn99 - Twitter
-- 😄 Pronouns: She/her 
-- ⚡ Fun fact: I sing and listen to songs.
--->
-
+# 💫 About Me:
+-   I'm currently working with Backend.<br>- 🌱 I’m currently learning Technology<br>- 📫 How to reach me: chndna_ - Instagram  chandana_mn99 - Twitter<br>- 😄 Pronouns: She/her <br>- ⚡ Fun fact: I sing and listen to songs.<br>-->
 
 
 ## 🌐 Socials:
@@ -18,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=chandanamn3&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chandanamn3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandanamn3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chandanamn3&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
