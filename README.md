@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-   I'm currently working with Backend.<br>
+-     I'm currently working with Backend.<br>
 - 🌱 I’m currently learning Technology
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: chndna_ - Instagram  chandana_mn99 - Twitter
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I sing and listen to songs.
 -->
-# 💫 About Me:
 
 
 
